@@ -15,14 +15,15 @@ A web developer who was a mechanical engineer.
 ![html](https://img.shields.io/badge/-HTML%205-%23E44D27?style=flat&logo=html5&logoColor=%23E44D27&labelColor=%23000000)
 ![css](https://img.shields.io/badge/-CSS%203-%231572B6?style=flat&logo=css3&logoColor=%231572B6&labelColor=%23000000)
 ![Scss](https://img.shields.io/badge/-Scss-%23000000?style=flat&logo=sass)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%23000000?style=flat&logo=TailwindCSS)
 
-![javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&color=%23000000)
-![typescript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat&logo=typescript&color=%23000000)
+![javascript](https://img.shields.io/badge/-JavaScript-%23000000?style=flat&logo=javascript)
+![typescript](https://img.shields.io/badge/-TypeScript-%23000000?style=flat&logo=typescript)
 
-![vue](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flate&logo=Vue.js)
-![nuxt](https://img.shields.io/badge/-Nuxt.js-%232c3e50?style=flate&logo=Nuxt.js)
-![Svelte](https://img.shields.io/badge/-Svelte-%23000000?style=flate&logo=Svelte)
-![Astro](https://img.shields.io/badge/-Astro-%23000000?style=flate&logo=Astro)
+![vue](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=Vue.js)
+![nuxt](https://img.shields.io/badge/-Nuxt.js-%232c3e50?style=flat&logo=Nuxt.js)
+![Svelte](https://img.shields.io/badge/-Svelte-%23000000?style=flat&logo=Svelte)
+![Astro](https://img.shields.io/badge/-Astro-%23000000?style=flat&logo=Astro)
 
 ### Backend
 
