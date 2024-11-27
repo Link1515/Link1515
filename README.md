@@ -4,10 +4,11 @@ A web developer who was a mechanical engineer.
 
 ![profile views](https://komarev.com/ghpvc/?username=Link1515)
 
-## Skills
+## What I'm passionate about
 
-### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,vue,nuxtjs,astro,alpinejs)](https://skillicons.dev)
+![](https://skillicons.dev/icons?i=js,php,vue,tailwind,astro,laravel,linux,vim)  
+
+<br />
 
 <!-- ![html](https://img.shields.io/badge/-HTML%205-%23E44D27?style=flat&logo=html5&logoColor=%23E44D27&labelColor=%23000000)
 ![css](https://img.shields.io/badge/-CSS%203-%231572B6?style=flat&logo=css3&logoColor=%231572B6&labelColor=%23000000)
@@ -20,10 +21,6 @@ A web developer who was a mechanical engineer.
 ![Astro](https://img.shields.io/badge/-Astro-%23000000?style=flat&logo=Astro&logoColor=%23ffffff)
 -->
 
-### Backend
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb,redis)](https://skillicons.dev)
-
 <!-- ![nodejs](https://img.shields.io/badge/-Node.js-%23333333?style=flat&logo=Node.js)
 ![express](https://img.shields.io/badge/-Express-%23000000?style=flat&logo=Express)
 ![php](https://img.shields.io/badge/-PHP-%23333333?style=flat&logo=PHP)
@@ -33,11 +30,6 @@ A web developer who was a mechanical engineer.
 ![Redis](https://img.shields.io/badge/-Redis-%23000000?style=flat&logo=Redis)
 -->
 
-### Others
-
-[![Others](https://skillicons.dev/icons?i=git,docker,linux,vim)](https://skillicons.dev)
-
-<br />
 <!-- ![Git](https://img.shields.io/badge/-Git-%23000000?style=flat&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-%23000000?style=flat&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-%23000000?style=flat&logo=Linux&logoColor=%23ffffff)
